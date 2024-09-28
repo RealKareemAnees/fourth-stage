@@ -93,6 +93,6 @@
   [O'Reilly Book](https://learning.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
 
 - **The Object-Oriented Thought Process**  
-  [O'Reilly Book](https://learning.oreilly.com/library/view/the-object-oriented-thought/9780135182130/)
+  [O'Reilly Book](https://learning.oreilly.com/library/view/the-object-oriented-thought/9780135182130/) [DONE]
 
-
+- **OOP Analysis and Design** [Paperbook]()
