@@ -37,6 +37,12 @@
 - **Counting/Probability**  
   [Harvard University's Probability Course](https://www.edx.org/learn/probability/harvard-university-fat-chance-probability-from-the-ground-up)
 
+### Algorithms
+
+- **Abdul Bary (revise)** (YouTube playlist)[https://youtube.com]
+
+- **introduction to algorithms** (MIT)[]
+
 ### Computer Science
 
 - **Operating Systems (OS)**  
@@ -61,12 +67,18 @@
 - **ChatGPT in Business**  
   [Course on edX](https://www.edx.org/learn/computer-programming/edx-how-to-use-chatgpt-in-business)
 
+- **Prompt engineering for Generative AI**  
+  [Prompt engineering for Generative AI)[https://learning.oreilly.com]
+
 ---
 
 ## 4: System Architecture
 
 - **Microservices on the Cloud**  
   [AWS Serverless Microservices with Patterns & Best Practices](https://www.udemy.com/course/aws-serverless-microservices-lambda-eventbridge-sqs-apigateway/?couponCode=LETSLEARNNOWPP)
+
+- **System design**  
+  [System design on AWS](https://oreilly.com)
 
 ---
 
@@ -75,9 +87,25 @@
 - **Microservices Security**  
   [microservices security in action](https://learning.oreilly.com/library/view/microservices-security-in/9781617295959/)
 
+- **Practical cloud security**  
+  [practical cloud security)[https://learning.oreilly.com]
+
+- **Defencive security**  
+  [Defencive security)[https://learning.oreilly.com]
+
 ---
 
-## 6: Additional Topics
+## 6: CODE design and optimise
+
+- **The Object-Oriented Thought Process**  
+  [O'Reilly Book](https://learning.oreilly.com/library/view/the-object-oriented-thought/9780135182130/) [DONE]
+
+- **Head first OOP Analysis and Design** [Paperbook]()
+
+- **Head first Design Patterns** [Paperbook]()
+
+
+## 7: Additional Topics
 
 - **Regular Expressions (Regex)**  
   [Understanding Regular Expressions](https://learning.oreilly.com/course/understanding-regular-expressions/9781491996300/)
@@ -92,7 +120,10 @@
 - **Designing Data-Intensive Applications**  
   [O'Reilly Book](https://learning.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
 
-- **The Object-Oriented Thought Process**  
-  [O'Reilly Book](https://learning.oreilly.com/library/view/the-object-oriented-thought/9780135182130/) [DONE]
+- **Learning Java 6th edition** [Paperbook]()
 
-- **OOP Analysis and Design** [Paperbook]()
+- **The manager's path** [Paperbook]()
+
+
+
+
