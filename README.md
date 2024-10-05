@@ -104,6 +104,10 @@
 
 - **Head first Design Patterns** [Paperbook]()
 
+- **testing**
+  - [Unit Testing Principles, Practices, and Patterns](https://learning.oreilly.com/library/view/unit-testing-principles/9781617296277/?_gl=1*1t7qxsd*_ga*MTI4ODQwNDA1MC4xNzI4MTA1NDg0*_ga_092EL089CH*MTcyODEwNTQ4NC4xLjEuMTcyODEwNTUyMy4yMS4wLjA.)
+  - [Software Test Design](https://learning.oreilly.com/library/view/software-test-design/9781804612569/)
+
 
 ## 7: Additional Topics
 
@@ -113,7 +117,7 @@
 - **Logging**  
   [Observability Engineering](https://learning.oreilly.com/library/view/observability-engineering/9781492076438/)
 
-
+- **CICD** [Automating DevOps with GitLab CI/CD Pipelines](https://learning.oreilly.com/library/view/automating-devops-with/9781803233000/#:~:text=Configure%20and%20use%20GitLab%20Runners%20to%20execute%20CI/CD%20pipelines.%20Explore)
 
 ## 7: Recommended Books
 
