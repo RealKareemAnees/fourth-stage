@@ -119,14 +119,13 @@
 
 - **CICD** [Automating DevOps with GitLab CI/CD Pipelines](https://learning.oreilly.com/library/view/automating-devops-with/9781803233000/#:~:text=Configure%20and%20use%20GitLab%20Runners%20to%20execute%20CI/CD%20pipelines.%20Explore)
 
-## 7: Recommended Books
+- **refactoring**
 
-- **Designing Data-Intensive Applications**  
-  [O'Reilly Book](https://learning.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
+- **relational database design**
 
-- **Learning Java 6th edition** [Paperbook]()
+- **distriputed systs** by Mohammad moshrif
 
-- **The manager's path** [Paperbook]()
+- soft skills 
 
 
 
